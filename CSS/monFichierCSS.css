@@ -1,0 +1,22 @@
+body{
+	background-image: url("fond1.jpg");
+	background-size: cover; 
+}
+#titre {
+        text-align: center;
+		color: rgb(255,255,255, 0.8);
+	}
+.entree{
+	width:55px;
+	border-radius: 5px;
+}
+#bloc{
+	background-color: rgb(255,255,255, 0.2);
+	margin-left:30%;
+	margin-right:30%;
+	text-align:center;
+	border-radius: 7px;
+}
+#courbe{
+	
+}
